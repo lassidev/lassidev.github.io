@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TryHackMe biteme writeup
-cover-img: https://user-images.githubusercontent.com/77704710/158024540-b487cf49-f10e-4f23-8d0a-4457a6147568.png
 thumbnail-img: https://user-images.githubusercontent.com/77704710/158024540-b487cf49-f10e-4f23-8d0a-4457a6147568.png
 share-img: https://user-images.githubusercontent.com/77704710/158024540-b487cf49-f10e-4f23-8d0a-4457a6147568.png
 tags: [TryHackMe, CTF, writeup]
